@@ -1,3 +1,2 @@
-# web-platform-sm9jky
+# My guide to HTML and CSS :)
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-sm9jky)
